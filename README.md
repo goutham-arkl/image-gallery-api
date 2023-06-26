@@ -1,5 +1,5 @@
 
-# TO-DO-LIST
+# IMAGE-GALLERY
 
 By using the Image gallery , you can store images with the help of an apikey in cloud . 
 
